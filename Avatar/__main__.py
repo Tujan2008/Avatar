@@ -99,7 +99,7 @@ BUTTONS = [
                     [
                         InlineKeyboardButton(
                              text=" 👪 Support Group ",
-                             url="https://t.me/SlNinjaTeam"),
+                             url="https://t.me/ankimusicgroup"),
                          InlineKeyboardButton(
                              text=" 🔔 Update Channel ",
                              url="https://t.me/SLninjaTeamchannel")
