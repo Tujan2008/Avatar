@@ -63,7 +63,7 @@ from Avatar.modules.helper_funcs.readable_time import get_readable_time
 PM_START_TEXT = """
 *Hi, my name is* [Avatar](https://telegra.ph/file/430a51d113196c7c7fa06.jpg) !
 
-I am a Powerful Group Manager bot Developed by [ImDilasna](@ImDilasna)
+I am a Powerful Group Manager bot Developed by [TujanGamage](@tujan3)
 
 You can find my list of available commands with /help.
 
